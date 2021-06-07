@@ -19,7 +19,7 @@ namespace WarehouseHelper
 
         public Stone()
         { }
-
+        // проверка 
         public virtual Car Car { get; set; }
     }
 }
